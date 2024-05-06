@@ -1,0 +1,67 @@
+{
+  "arch": [
+    {
+      "id": "apartment",
+      "image": ["/img/apartment.avif", "/img/apartment.webp", "/img/apartment.jpg"],
+      "title": "LUX APARTMENT",
+      "bath": "3/2",
+      "sq": "110",
+      "price": "$350,000",
+      "rent": "$2,500"
+    },
+    {
+      "id": "villa",
+      "image": ["/img/villa.avif", "/img/villa.webp", "/img/villa.jpg"],
+      "title": "THE GREEN VILLA",
+      "bath": "3/3",
+      "sq": "1120",
+      "price": "$194,000",
+      "rent": "$3,500"
+    },
+    {
+      "id": "penthouse",
+      "image": ["/img/penthouse.avif", "/img/penthouse.webp", "/img/penthouse.jpg"],
+      "title": "PENTHOUSE",
+      "bath": "3/3",
+      "sq": "320",
+      "price": "$240,000",
+      "rent": "$2,500"
+    },
+    {
+      "id": "spa",
+      "image": ["/img/spa.avif", "/img/spa.webp", "/img/spa.jpg"],
+      "title": "SPA LUXURY",
+      "bath": "3/3",
+      "sq": "520",
+      "price": "$520,000",
+      "rent": "$9,000"
+    },
+    {
+      "id": "duplex",
+      "image": ["/img/duplex.avif", "/img/duplex.webp", "/img/duplex.jpg"],
+      "title": "DUPLEX",
+      "bath": "3/3",
+      "sq": "50",
+      "price": "$150,000",
+      "rent": "$1,900"
+    },
+    {
+      "id": "studio",
+      "image": ["/img/studio.avif", "/img/studio.webp", "/img/studio.jpg"],
+      "title": "STUDIO",
+      "bath": "3/3",
+      "sq": "99",
+      "price": "$50,000",
+      "rent": "$900"
+    },
+    {
+      "id": "simplex",
+      "image": ["/img/simplex.avif", "/img/simplex.webp", "/img/simplex.jpg"],
+      "title": "SIMPLEX",
+      "bath": "3/3",
+      "sq": "100",
+      "price": "$120,000",
+      "rent": "$1,000"
+    }
+  ]
+}
