@@ -2,7 +2,7 @@
   "arch": [
     {
       "id": "apartment",
-      "image": ["/img/apartment.avif", "/img/apartment.webp", "/img/apartment.jpg"],
+      "image": ["img/apartment.avif", "img/apartment.webp", "img/apartment.jpg"],
       "title": "LUX APARTMENT",
       "bath": "3/2",
       "sq": "110",
@@ -11,7 +11,7 @@
     },
     {
       "id": "villa",
-      "image": ["/img/villa.avif", "/img/villa.webp", "/img/villa.jpg"],
+      "image": ["img/villa.avif", "img/villa.webp", "img/villa.jpg"],
       "title": "THE GREEN VILLA",
       "bath": "3/3",
       "sq": "1120",
@@ -20,7 +20,7 @@
     },
     {
       "id": "penthouse",
-      "image": ["/img/penthouse.avif", "/img/penthouse.webp", "/img/penthouse.jpg"],
+      "image": ["img/penthouse.avif", "img/penthouse.webp", "img/penthouse.jpg"],
       "title": "PENTHOUSE",
       "bath": "3/3",
       "sq": "320",
@@ -29,7 +29,7 @@
     },
     {
       "id": "spa",
-      "image": ["/img/spa.avif", "/img/spa.webp", "/img/spa.jpg"],
+      "image": ["img/spa.avif", "img/spa.webp", "img/spa.jpg"],
       "title": "SPA LUXURY",
       "bath": "3/3",
       "sq": "520",
@@ -38,7 +38,7 @@
     },
     {
       "id": "duplex",
-      "image": ["/img/duplex.avif", "/img/duplex.webp", "/img/duplex.jpg"],
+      "image": ["img/duplex.avif", "img/duplex.webp", "img/duplex.jpg"],
       "title": "DUPLEX",
       "bath": "3/3",
       "sq": "50",
@@ -47,7 +47,7 @@
     },
     {
       "id": "studio",
-      "image": ["/img/studio.avif", "/img/studio.webp", "/img/studio.jpg"],
+      "image": ["img/studio.avif", "img/studio.webp", "img/studio.jpg"],
       "title": "STUDIO",
       "bath": "3/3",
       "sq": "99",
@@ -56,7 +56,7 @@
     },
     {
       "id": "simplex",
-      "image": ["/img/simplex.avif", "/img/simplex.webp", "/img/simplex.jpg"],
+      "image": ["img/simplex.avif", "img/simplex.webp", "img/simplex.jpg"],
       "title": "SIMPLEX",
       "bath": "3/3",
       "sq": "100",
