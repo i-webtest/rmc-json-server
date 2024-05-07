@@ -63,5 +63,39 @@
       "price": "$120,000",
       "rent": "$1,000"
     }
+  ],
+  "project": [
+    {
+      "id": "architecture",
+      "image": ["img/project-1.avif", "img/project-1.webp", "img/project-1.jpg"]
+    },
+    {
+      "id": "architecture",
+      "image": ["img/project-2.avif", "img/project-2.webp", "img/project-2.jpg"]
+    },
+    {
+      "id": "architecture",
+      "image": ["img/project-3.avif", "img/project-3.webp", "img/project-3.jpg"]
+    },
+    {
+      "id": "construction",
+      "image": ["img/project-4.avif", "img/project-4.webp", "img/project-4.jpg"]
+    },
+    {
+      "id": "construction",
+      "image": ["img/project-5.avif", "img/project-5.webp", "img/project-5.jpg"]
+    },
+    {
+      "id": "interior",
+      "image": ["img/project-6.avif", "img/project-6.webp", "img/project-6.jpg"]
+    },
+    {
+      "id": "interior",
+      "image": ["img/project-7.avif", "img/project-7.webp", "img/project-7.jpg"]
+    },
+    {
+      "id": "interior",
+      "image": ["img/project-8.avif", "img/project-8.webp", "img/project-8.jpg"]
+    }
   ]
 }
