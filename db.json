@@ -97,5 +97,28 @@
       "id": "interior",
       "image": ["img/project-8.avif", "img/project-8.webp", "img/project-8.jpg"]
     }
+  ],
+  "images": [
+    {
+      "image": ["img/image-1.avif", "img/image-1.webp", "img/image-1.jpg"]
+    },
+    {
+      "image": ["img/image-2.avif", "img/image-2.webp", "img/image-2.jpg"]
+    },
+    {
+      "image": ["img/image-3.avif", "img/image-3.webp", "img/image-3.jpg"]
+    },
+    {
+      "image": ["img/image-4.avif", "img/image-4.webp", "img/image-4.jpg"]
+    },
+    {
+      "image": ["img/image-5.avif", "img/image-5.webp", "img/image-5.jpg"]
+    },
+    {
+      "image": ["img/image-6.avif", "img/image-6.webp", "img/image-6.jpg"]
+    },
+    {
+      "image": ["img/image-7.avif", "img/image-7.webp", "img/image-7.jpg"]
+    }
   ]
 }
